@@ -39,37 +39,5 @@
         "enable": false
       }
     }
-  },
-  "interactivity": {
-    "detect_on": "canvas",
-    "events": {
-      "onhover": {
-        "enable": true,
-        "mode": "grab"
-      },
-      "onclick": {
-        "enable": true,
-        "mode": "push"
-      }
-    },
-    "modes": {
-      "grab": {
-        "distance": 250,
-        "line_linked": {
-          "opacity": 1
-        }
-      },
-      "bubble": {
-        "distance": 200,
-        "size": 20,
-        "opacity": 1
-      },
-      "repulse": {
-        "distance": 200
-      },
-      "push": {
-        "particles_nb": 20
-      }
-    }
   }
 }
